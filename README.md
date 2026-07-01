@@ -8,7 +8,7 @@ This is a windows forms app designed in C# and SQL that works to add, delete, lo
 Open the Gym.sln file in Visual Studio and make sure the desktop name for your desktop server is the correct one (not mine lol, so change it to your desktop name)
 
 
-<h3>Step2</h3>
+<h3>Step 2:</h3>
 
 In in \GYM APP + SQL files\Resources there is a gym.sql file that you can run to create database, tables and dummy records (if you wish), you opfcourse would need to do this section by section until you have the necccessaryu data to make the app work.
 
