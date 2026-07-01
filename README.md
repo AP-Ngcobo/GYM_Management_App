@@ -5,7 +5,7 @@ This is a windows forms app designed in C# and SQL that works to add, delete, lo
 
 <h3>Step 1:</h3>
 
-Open the Gym.sln file in Visual Studio and make sure the desktop name for your desktop server is the correct one in the FrmCheckin form (not mine lol, so change it to your desktop name)
+Open the Gym.sln file in Visual Studio and make sure the desktop name for your desktop server is the correct one in the <i>FrmCheckin</i> form (not mine lol, so change it to your desktop name)
 
 
 <h3>Step 2:</h3>
