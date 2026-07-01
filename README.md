@@ -15,7 +15,7 @@ In in \GYM APP + SQL files\Resources there is a gym.sql file that you can run to
 *Alternatively if the gym.sql file doesnt work, i did create text files you can use to create all your database content, you will find these at the  \GYM APP + SQL files folder:
 
 
-<h3>step 3:</h3>
+<h3>Step 3:</h3>
 
 Just make sure to connect your database and then run the app in VS
 
