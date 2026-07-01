@@ -27,7 +27,7 @@ Just make sure to connect your database desktop server and then run the app in V
 <img src="Gym.PNG">
 
 <h2> The App UI:</h2>
-The final UI should look like this ( the log attendance button will redirect to another form for tyhe attendance)
+The final UI should look like this ( the log attendance button will redirect to another form for the attendance)
 
 <img src="frm checkin.PNG">
 
