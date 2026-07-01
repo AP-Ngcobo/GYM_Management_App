@@ -1,5 +1,5 @@
 # GYM_Management_App
-This is a windows forms app designed in C# and SQL that works to add, delete, log attendance and manage workout classes in a gym organizational environment  
+This is a windows forms app designed in C# and SQL that works to add, delete, log attendance and manage workout classes in a gym organizational environment. I mader this back in 2025 for an assignment  
 
 <i>To get the app to work you need the sql database and tables created (instructions below)</i>
 
