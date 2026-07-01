@@ -28,6 +28,6 @@ Just make sure to connect your database desktop server and then run the app in V
 
 The final UI should look like this ( the log attendance button will redirect to another form for tyhe attendance)
 
-<img src="frmCheckin.PNG">
+<img src="frm Checkin.PNG">
 
 <img src="frmClasses.PNG">
