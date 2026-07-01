@@ -10,7 +10,7 @@ Open the <b>Gym.sln</b> file in Visual Studio and make sure the desktop name for
 
 <h3>Step 2:</h3>
 
-In in <b><i>\GYM APP + SQL files\Resources</i></B> there is a <b>gym.sql</B> file that you can run to create database, tables and dummy records (if you wish), you opfcourse would need to do this section by section until you have the necccessary data to make the app work.
+In in <b><i>\GYM APP + SQL files\Resources</i></B> there is a <b>gym.sql</b> file that you can run to create database, tables and dummy records (if you wish), you opfcourse would need to do this section by section until you have the necccessary data to make the app work.
 
 *Alternatively if the <b>gym.sql</B> file doesnt work, i did create text files you can use to create all your database content, you will find these at the  <b><i>\GYM APP + SQL</i></B> files folder:
 
